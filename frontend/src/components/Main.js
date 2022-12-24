@@ -5,7 +5,7 @@ import drink from '../drink';
 
 function Main() {
   return (
-    <div className="block bg-rose-100 h-vh w-full">
+    <div className="block bg-rose-500 h-vh w-full">
        <h1 className="font-bold text-[#203990] text-center font-serif text-4xl mt-6 mb-2 ">Welcome to Happy Taste Bakery</h1>
        <p className="font-semibold text-[#203990] text-center font-mono text-lg ">Days: Mondays - Saturdays</p>
        <p className="font-semibold text-[#203990] text-center font-mono text-sm">Hours:8:00a.m - 6:00p.m</p>

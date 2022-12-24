@@ -1,8 +1,11 @@
 import React from 'react'
+import Nav from '../components/Nav';
 
 function Contact() {
   return (
-    <div>Contact</div>
+    <div className="flex overflow-hidden">
+      <Nav/>
+    </div>
   )
 }
 

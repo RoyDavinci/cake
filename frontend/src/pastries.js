@@ -1,50 +1,55 @@
 const pastries = [
+ 
     {
-        id: 1.0,
-        name: "dough",
+        id: "1",
+        name: "Doughnut",
         url: require("./image/dough.png"),
         category: "pastries",
-        price: "$600",
+        price: "$60",
     },
     {
-        id: 2.0,
-        name: "cookies",
+        id: "2",
+        name: "Cookies",
         url: require("./image/cookies.png"),
         category: "Pastries",
-        price: "$300",
+        price: "$30",
     
     },
     {
-        id: 3.0,
-        name: "pie",
+        id: "3",
+        name: "Sausage",
         url: require("./image/pie.png"),
         category: "pastries",
         price: "$20",
         
     },
     {
-        id: 4.0,
-        name: "swiss",
+        id: "4",
+        name: "Swiss roll",
         url: require("./image/swiss.png"),
         category: "pastries",
-        price: "$100",
+        price: "$15",
          
     },
     {
-        id: 5.0,
-        name: "dough",
+        id: "5",
+        name: "Doughnut",
         url: require("./image/dough.png"),
         category: "pastries",
-        price: "$800",
+        price: "$25",
         
     },
     {
-        id: 6.0,
-        name: "cookies",
+        id: "6",
+        name: "Cookies",
         url: require("./image/cookies.png"),
         category: "pastries",
-        price: "$600",
+        price: "$30",
          
     }
 ]
- export default pastries
+
+ 
+
+
+export default pastries;

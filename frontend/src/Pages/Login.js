@@ -1,15 +1,14 @@
 import React from 'react'
 import Nav from '../components/Nav'
-import Ordermain from '../components/Ordermain'
+import Logindetails from '../components/Logindetails'
 
-function Order() {
+function Login() {
   return (
     <div className="flex overflow-hidden">
         <Nav/>
-        <Ordermain/>
-        
+        <Logindetails/>
     </div>
   )
 }
 
-export default Order
+export default Login

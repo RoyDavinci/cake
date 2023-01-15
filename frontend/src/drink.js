@@ -1,53 +1,55 @@
 const drink = [
+    
     {
-        id: 1.0,
-        name: "dough",
+        id: "1",
+        name: "Black Coffee",
         url: require("./image/drink1.png"),
         category: "drink",
-        price: "$600",
+        price: "$20",
     },
     {
-        id: 2.0,
-        name: "cookies",
+        id: "2",
+        name: "Plain Coffee",
         url: require("./image/drink2.png"),
         category: "drink",
-        price: "$300",
+        price: "$30",
     
     },
     {
-        id: 3.0,
-        name: "pie",
+        id: "3",
+        name: "Pure Coffee",
         url: require("./image/drink3.png"),
         category: "drink",
         price: "$20",
         
     },
     {
-        id: 4.0,
-        name: "swiss",
+        id: "4",
+        name: "Honey mix",
         url: require("./image/drink4.png"),
         category: "drink",
-        price: "$100",
+        price: "$10",
          
     },
     {
-        id: 5.0,
-        name: "dough",
+        id: "5",
+        name: "Black Coffee",
         url: require("./image/drink1.png"),
         category: "drink",
-        price: "$800",
+        price: "$20",
         
     },
     {
-        id: 6.0,
-        name: "cookies",
+        id: "6",
+        name: "Plain Coffee",
         url: require("./image/drink3.png"),
         category: "drink",
-        price: "$600",
+        price: "$30",
          
     }
 ]
+
  
 
 
-export default drink
+export default drink;
